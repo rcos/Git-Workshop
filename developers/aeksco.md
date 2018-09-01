@@ -1,1 +1,1 @@
-Hello! My name is Alexander Schwartzberg and I'm an RCOS coordinator.
+Hello! My name is Alexander Schwartzberg and I'm an RCOS coordinator. Git workshops are fun
